@@ -1,0 +1,16 @@
+a=3
+b=2
+op_adicao=a+b
+print("Adição -> ",a,"+",b, "=" ,op_adicao)
+op_subtracao=a-b
+print("Subtração-> ",a,"-",b, "=" ,op_subtracao)
+op_multiplicacao=a*b
+print ("Multiplícação-> ",a,"x" ,b,"=" ,op_multiplicacao)
+op_divisao=a/b
+print("Dívisão-> ",a," I ",b,"=",op_divisao)
+op_divisao_int=a//b
+print("Dívisão inteira->",a,"ll",b,"=",op_divisao_int)
+op_modulo_div=a%b
+print("Módulo-> ",a,"%", b, "=" , op_modulo_div)
+op_exponenciacao=a**b
+print("Exponencíação->",a,"**" ,b,"=" , op_exponenciacao)

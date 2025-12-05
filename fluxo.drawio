@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0" version="29.0.3">
+  <diagram name="Página-1" id="R-3C7JpeNQLVKl9VIHHC">
+    <mxGraphModel dx="776" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-2" value="Escrever(&quot;Digite o primeiro valor:&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75" y="130" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-3" value="Ler(valor1)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="288.75" y="220" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-4" value="Escrever(&quot;Digite o segundo valor:&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75" y="290" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-5" value="Ler(valor1)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="288.75" y="380" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-6" value="Inicio" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="20" width="172.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-7" value="media = (valor1+valor2)/2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="263.75" y="450" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-10" value="Escrever(&quot;O valor da média é:&quot;, media)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75" y="525" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvcfOKzSldMa4uBsLM_g-11" value="Fim" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="610" width="172.5" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
